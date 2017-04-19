@@ -1,7 +1,7 @@
-# hyocheol
-Resume
+# Hyocheol Chae
+* 
 
-# Skills (Web Development)
+# Skills (Web Development / DevOps / Data Analysis)
 * Languages: Python, Go, Java, Javascript, C, C++, SQL, Objective-C
 * Web Frameworks: Flask, Django, Spring
 * Databases: MySQL, Redis
@@ -12,9 +12,8 @@ Resume
 * AWS : EC2, RDS, SQS, SNS, Redshift, S3,..
 
 # Experiences
-* CTO, Quicket (2011.6 - 2017.4)
+* CTO/Director, Quicket (2011.6 - 2017.4) - Lead Software Engineer & Architect & Development Team Management. Quicket is acquired by Campmobile in 2013
 * Researcher, IDIS (2008 - 2011.5) - Development of H.264 codec on ARM chip for DVR
-
 
 # Education
 * 2006 – 2008 GIST, South Korea (M.S. – Electrical Engineering and Computer Science)
